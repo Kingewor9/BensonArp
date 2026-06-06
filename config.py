@@ -35,4 +35,4 @@ FOLLOWUP_MESSAGE = (
 # ============================================================
 # How long (in hours) to wait before sending the follow-up
 # ============================================================
-FOLLOWUP_HOURS = 6
+FOLLOWUP_HOURS = 1

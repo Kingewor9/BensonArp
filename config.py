@@ -14,6 +14,36 @@ KEYWORD_REPLIES = {
         "and how I can help you.\n\n"
         "The link is available for a limited time. https://bit.ly/3MDhV0N"
     ),
+    "Hello":(
+        "Hi"
+    ),
+    "Hi":(
+        "Hello"
+    ),
+    "Good morning":(
+        "Good morning"
+    ),
+    "Good afternoon":(
+        "Good afternoon"
+    ),
+    "Good evening":(
+        "Good evening"
+    ),
+    "Good night":(
+        "Good night"
+    ),
+    "How are you":(
+        "I'm good, thank you"
+    ),
+    "How are you doing":(
+        "I'm good, thank you"
+    ),
+    "How are you doing today":(
+        "I'm good, thank you"
+    ),
+    "How are you doing today":(
+        "I'm good, thank you"
+    ),
 
     # ---- Add more keywords below this line ----
     # "Price": "Here is our pricing list: ...",

@@ -44,6 +44,14 @@ KEYWORD_REPLIES = {
     "How are you doing today":(
         "I'm good, thank you"
     ),
+    "Offer":(
+        "Congratulations on showing interest for the DFY Tiktok Ads Offer n\n"
+        "Kindly transfer the sum of 50k to this account below n\n"
+        "Account Name: Tikmarketinghub n\n"
+        "Account Number: 3003247241 n\n"
+        "Bank Name: Kuda MFB n\n"
+        "And send your payment receipts afterwards."
+    )
 
     # ---- Add more keywords below this line ----
     # "Price": "Here is our pricing list: ...",
@@ -52,7 +60,7 @@ KEYWORD_REPLIES = {
 
 
 # ============================================================
-# Follow-up message sent after 6 hours of no reply from user
+# Follow-up message sent after 1 hour of no reply from user
 # {first_name} is automatically replaced with the user's name
 # ============================================================
 FOLLOWUP_MESSAGE = (
